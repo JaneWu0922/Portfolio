@@ -1,46 +1,58 @@
-# AI Strategy & Engineering Portfolio
+# AI Engineering & Strategy Portfolio
 ### **EPITA Engineer | AI Project Manager**
 
-Welcome to my technical repository. This project showcases the intersection of **Latent Diffusion research** and **high-impact creative production** for global brands.
+This repository showcases my work across the AI lifecycle, from **Strategic Asset Generation** to **Deep Learning** and **NLP** implementation.
 
 ---
 
-## 🎨 Project 1: Visual Engagement Strategy (L’Oréal Case Study)
-**Objective:** Drive user participation in global digital learning events.
+## 🎨 Creative AI Strategy: L'Oréal "Fantastic Learning"
+**Folder:** `/AI Generated Visual Asset`
 
-* **Solution:** Engineered a consistent 3D-rendered character universe ("The Learning Monsters") to replace generic corporate imagery.
-* **Technical Workflow:** Leveraged **Midjourney** and **Nano Banana** with specific prompt engineering (e.g., *"2D rendered cartoon, highly detailed, soft lighting"*) to maintain brand consistency.
-* **Business Impact:** Achieved a **10% increase in participation rate** above projected targets.
-* **Assets:** View the character renders in the `/visuals` folder.
-
----
-
-## 🔬 Project 2: Stable Diffusion Parameter Optimization (Research)
-**Objective:** A deep-dive into the technical variables that govern image quality and prompt adherence.
-
-* **Inference Steps Analysis:** Demonstrated that **80 steps** are required for refined textures (plants, shadows) whereas **10 steps** only generate rough outlines.
-* **Guidance (CFG) Scale:** Identified the **7.5 to 15.0 range** as optimal for balancing creativity with structural detail.
-* **Scheduler Benchmarking:** * **DPM Scheduler:** Yields more realistic and detailed textures.
-    * **Euler Ancestral:** Tends to interpret prompts as 3D-object compositions (like a cube) rather than traditional landscapes.
-* **Documentation:** Full analysis available in the `/Computer Vision` folder.
+* **Objective:** Boost global employee engagement for digital learning events.
+* **Solution:** Engineered a consistent 3D character universe using **Midjourney** and **Nano Banana 2**.
+* **Business Impact:** Achieved a **10% increase** in participation rates. 
+* **Skills:** Prompt Engineering, IP Consistency, Creative Operations.
 
 ---
 
-## 💻 Project 3: Automated Image Generation Pipeline
-**Objective:** Building a functional interface for AI asset production.
+## 🛍️ Recommender System: Amazon Personalization
+**Folder:** `/Recommender System`
 
-* **Stack:** Python, Stable Diffusion API.
-* **Logic:** Implemented negative prompting to control lighting and atmosphere (e.g., transforming a daytime forest into a sunset/night scene).
-* **Code:** View the generation script in the `/Computer Vision` folder.
-
----
-
-## 🛠 Skills & Tools
-* **AI Models:** Stable Diffusion (DPM/Euler), Midjourney, Nano Banana.
-* **Technical:** Python (Data Automation), Prompt Engineering, CFG Tuning.
-* **Business:** HRIS Architecture (SuccessFactors), Data Governance, Digital Transformation.
+* **Project:** Built a custom recommendation engine using the **Amazon Dataset**.
+* **Focus:** Implementing collaborative filtering and content-based algorithms to optimize product discovery and user experience.
 
 ---
 
-### 📬 Contact & Links
+## 📊 Data Science & Visualization
+**Folder:** `/Data_Science`
+
+1.  **Spotify Popularity Predictor:** Analyzed song features (tempo, energy, danceability) to predict track popularity using Machine Learning.
+2.  **Public Health Analysis:** A **PowerBI** dashboard visualizing the link between water pollution and waterborne diseases across 10 countries (2000–2025).
+
+---
+
+## 🧠 Deep Learning: Spam Detection & Streamlit UI
+**Folder:** `/Deep Learning`
+
+* **Project:** Developed an end-to-end Deep Learning model to classify spam emails.
+* **Deployment:** Created a functional user interface using **Streamlit**, allowing users to test the model in real-time.
+
+---
+
+## 📝 NLP: Sentiment Analysis & Emotion Classification
+**Folder:** `/NLP`
+
+* **Project:** Multi-class classification of tweets into emotions (Joy, Sadness, Fear, Anger).
+* **Technical Focus:** Comparing different model architectures and managing train/test/validation splits to prevent overfitting and ensure high accuracy.
+
+---
+
+## 🛠 Technical Stack
+* **AI/ML:** Stable Diffusion, NLP, Deep Learning, Recommender Systems.
+* **Tools:** Python, Streamlit, PowerBI, Midjourney, Nano Banana 2.
+* **Data:** SQL, CSV Processing, Feature Engineering.
+
+---
+
+### 📬 Contact
 - **LinkedIn:** [www.linkedin.com/in/jane-wu0922]
