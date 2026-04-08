@@ -22,7 +22,7 @@ Welcome to my technical repository. This project showcases the intersection of *
 * **Guidance (CFG) Scale:** Identified the **7.5 to 15.0 range** as optimal for balancing creativity with structural detail.
 * **Scheduler Benchmarking:** * **DPM Scheduler:** Yields more realistic and detailed textures.
     * **Euler Ancestral:** Tends to interpret prompts as 3D-object compositions (like a cube) rather than traditional landscapes.
-* **Documentation:** Full analysis available in the uploaded `Assignment 4 - Jane-2.pdf`.
+* **Documentation:** Full analysis available in the uploaded `AI_Parameter_Research_Jane.pdf`.
 
 ---
 
