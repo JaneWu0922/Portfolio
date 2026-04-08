@@ -22,7 +22,7 @@ Welcome to my technical repository. This project showcases the intersection of *
 * **Guidance (CFG) Scale:** Identified the **7.5 to 15.0 range** as optimal for balancing creativity with structural detail.
 * **Scheduler Benchmarking:** * **DPM Scheduler:** Yields more realistic and detailed textures.
     * **Euler Ancestral:** Tends to interpret prompts as 3D-object compositions (like a cube) rather than traditional landscapes.
-* **Documentation:** Full analysis available in the uploaded `AI_Parameter_Research_Jane.pdf`.
+* **Documentation:** Full analysis available in the `/Computer Vision` folder.
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my technical repository. This project showcases the intersection of *
 
 * **Stack:** Python, Stable Diffusion API.
 * **Logic:** Implemented negative prompting to control lighting and atmosphere (e.g., transforming a daytime forest into a sunset/night scene).
-* **Code:** View the generation script in the `/scripts` folder.
+* **Code:** View the generation script in the `/Computer Vision` folder.
 
 ---
 
