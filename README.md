@@ -1,5 +1,5 @@
-# AI Engineering & Strategy Portfolio
-### **EPITA Engineer | AI Project Manager**
+# AI Engineering & Data Portfolio
+### **EPITA Engineer | AI Project Specialist**
 
 This repository showcases my work across the AI lifecycle, from **Strategic Asset Generation** to **Deep Learning** and **NLP** implementation.
 
