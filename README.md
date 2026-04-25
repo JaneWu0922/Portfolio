@@ -5,7 +5,7 @@ This repository showcases my work across the AI lifecycle, from **Strategic Asse
 
 ---
 
-## 🎨 Creative AI Strategy: L'Oréal "Fantastic Learning"
+## 🎨 Creative AI Strategy: "Fantastic Learning"
 **Folder:** `/AI Generated Visual Asset`
 
 * **Objective:** Boost global employee engagement for digital learning events.
